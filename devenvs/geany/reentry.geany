@@ -1,0 +1,41 @@
+
+[indentation]
+indent_width=4
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=Reentry
+base_path=/home/ppj/projects/reentry
+description=A post-scarcity, prosperity-driven economy space exploration and colonization game. Inspired by Escape Velocity.
+file_patterns=*.c;*.cpp;*.h;*.hpp;*.asm;
+
+[long line marker]
+long_line_behaviour=2
+long_line_column=80
+
+[files]
+current_page=1
+FILE_NAME_0=244;None;0;16;0;1;0;/home/ppj/projects/reentry/README.txt;0;4
+FILE_NAME_1=1244;C;0;16;0;1;0;/home/ppj/projects/reentry/clients/sdl/reentry-sdl.c;0;4
+
+[VTE]
+last_dir=/home/ppj
+
+[build-menu]
+CFT_00_LB=_Compile
+CFT_00_CM=gcc -Wall -c "%f"
+CFT_00_WD=
+CFT_01_LB=_Build
+CFT_01_CM=gcc -Wall -o "%e" "%f" -lSDL -lSDL_image
+CFT_01_WD=
+filetypes=C;
+
+[gproject]
+source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;
+header_patterns=*.h;*.H;*.hpp;*.hxx;*.h++;*.hh;*.m;
+ignored_dirs_patterns=.*;CVS;
+generate_tags=false
