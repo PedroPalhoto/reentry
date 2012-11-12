@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="doc\project_template.txt" open="0" top="0" tabpos="4">
+		<Cursor position="390" topLine="18" />
+	</File>
+	<File name="include\game_scene.h" open="0" top="0" tabpos="0">
+		<Cursor position="197" topLine="0" />
+	</File>
+	<File name="include\menu.h" open="1" top="0" tabpos="5">
+		<Cursor position="107" topLine="0" />
+	</File>
+	<File name="include\reentry.h" open="1" top="0" tabpos="2">
+		<Cursor position="650" topLine="10" />
+	</File>
+	<File name="src\game_scene.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="src\menu.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="51" topLine="0" />
+	</File>
+	<File name="src\reentry.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="src\reentry_OnCleanup.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="src\reentry_OnEvent.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="11" topLine="0" />
+	</File>
+	<File name="src\reentry_OnInit.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="351" topLine="0" />
+	</File>
+	<File name="src\reentry_OnLoop.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="30" topLine="0" />
+	</File>
+	<File name="src\reentry_OnRender.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="11" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

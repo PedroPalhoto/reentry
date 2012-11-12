@@ -22,7 +22,7 @@
  */
 
 #include <SDL/SDL.h>
-#include "SDL/SDL_image.h"
+#include <SDL/SDL_image.h>
 #include <stdio.h>
 
 #define SCREEN_WIDTH    320

@@ -1,0 +1,31 @@
+Aim for 320x200x64 as a medium benchmark (Amiga OCS with Extra Half-Bright).
+Allow up to Very High resolutions; Full HD (1920x1080), for instance.
+Allow down to 240x160x16 (Gameboy Advance resolution with Atari ST colors).
+Pipeline:: 3D CG Models->Render->Colormap
+
+320x200x256  PC-VGA [1987]
+320x200x16   PC-EGA [1984]
+320x200x256  Commodore Amiga AGA (NTSC) [1992]
+320x200x32   Commodore Amiga OCS (NTSC). More colors with EHBSM. [1985]
+320x224x61   Sega Mega Drive (aka Genesis) [1988]
+320x224x4K   Sega System 16 (Arcade) [1985]
+320x224x4K   SNK Neo Geo [1990]
+320x240x64K  Sega Saturn [1994]
+320x240x64K  Sony Playstation 1 [1994]
+320x240x16M  Nintendo 64 [1996]
+320x240x16M  Atari Jaguar [1993]
+256x224x256  Nintendo Super Famicom / Super NES [1990]
+256x239x482  NEC PC Engine (aka TurboGrafx-16) [1987]
+512x384x256  Macintosh IIx / Color Classic (68K, Systems 6 & 7) [1988]
+320x200x16   Atari ST [1985]
+240x160x32K  Nintendo Gameboy Advance [2001]
+256x224x25   Nintendo Famicom / NES [1983]
+320x200x16   Apple IIGS [1986]
+320x240x25   Atari 7800 [1984]
+256x192x16   Colecovision [1982]
+320x288x24   Gameboy Color (160x144x56 only on Wikipedia) [1998]
+320x480x256K Optimus Boston (aka Android Commtiva Z71) [2010]
+320x240x64K  GamePark GP32 [2001]
+640x480x??   GamePark GP2X Wiz [2009]
+800x480x16M  OpenPandora Pandora [2010]
+

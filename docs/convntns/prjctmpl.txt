@@ -1,0 +1,52 @@
+Project Template
+
+Scenes
+|-Loading
+|-Menu
+|-InFlight
+`-Docked
+
+Assets
+|-Interface
+|-Scripts
+| |-Artificial Intelligence Behavior
+| `-Other
+|-Sprites
+| |-Animated
+| `-Static
+|-Sound
+|-Materials
+| |-Backgrounds
+| |-Crosshair
+| `-Shots
+|   |-Energy
+|   `-Projectile
+`-World Data
+  |-Ships
+  |-Star Systems
+  |-Planets
+  |-Personalities
+  |-Stories
+  `-Resources
+
+Components
+|-Audio
+| |-Sound Listener
+| `-Sound Emitter
+|-Input
+| |-Keyboard
+| |-Mouse
+| `-Game Controller
+|-Graphics Rendering
+| |-Text Renderer
+| |-Sprite Renderer
+| |-Sprite Collision
+| `-Camera Controller
+|-Physics
+|-Artificial Intelligence Engine
+`-Game Logic
+
+Game
+|-Configuration
+|-World Data Editor
+`-Other Utilities

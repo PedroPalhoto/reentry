@@ -1,0 +1,18 @@
+
+New features, beyond Escape Velocity Nova:
+
+Auto-route (shortest path)
+
+== Enterprise (multi-fleet) ==
+- detatch ship(s) from main fleet, send on trading route
+- ability to send order to detatched fleets to stay docked (multi-day docking costs extra)
+- send ship from main fleet to a detatched fleet (with the ability to hire escorts to help it get there)
+
+
+== Personnel (RPGish) ==
+- Hire Captains and Commanders to Pilot Ships and Command Fleets (AI);
+- Personnel gain their own experience and skills;
+- Each Capital Ship owned by the enterprise must have a captain;
+- Personnel can be chosen to participate in missions;
+
+Written on an Amiga :).

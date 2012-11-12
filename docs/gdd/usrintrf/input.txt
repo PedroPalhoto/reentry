@@ -1,0 +1,61 @@
+Minimum 4/8-way Joystick/Joypad with 4 buttons (Mega Drive, for instance)
+* Primary Fire
+* Secondary Fire
+* Hold Buttons + 8 Directions, 24 Options:
+    01 Afterburner On/Off
+    02 Switch Secondary Weapon
+    03 Auto Align heading with target
+    04 Request Landing
+    05 Jump to Hyperspace
+    06 Select Planet
+    07 Closest Hostile Target
+    08 Communicate with Target
+    09 Menu (Pause)
+    10 Map (Pause)
+    11 Cycle Next Hyperspace Jump Destination
+    12 Safe Secondary Weapon
+    13 Cycle Next Target
+    14 Order: Attack nearest hostile
+    15 Order: Guard
+    16 Order: Stand still
+    17 Order: Follow
+    18 Jettison Cargo
+    19 Eject
+
+
+== Console Platforms Overview (no keyboard) ==
+
+Mega Drive: 3 Action Buttons + Start
+Gameboy Advance: 4 Action Buttons
+NES: 2 Action Buttons + Start + Select
+Gameboy Color: 2 Action Buttons + Start + Select
+
+
+
+
+== Mega Drive (4 buttons) ==
+
+Up - Accelerate
+Left - Turn Left
+Right - Turn Right
+Down - Invert Position
+
+A Tap-Release (<0.5s) - Closest Hostile Target
+B Tap-Release (<0.5s) - Secondary Fire
+C Press       - Primary Fire
+
+A Keep Pressed (>=0.5s) - Auto-focus Target and "A" Options appear (8), disapear after 3 seconds
+B Keep Pressed (>=0.5s) - "B" Options appear (8 options)
+A+B Pressed  (>=0.5s) - "A+B" Options appear (8 options)
+
+"A" Options (Release A to select):
+  Up         - Afterburner On/Off
+  Up-Right   - Jump to Hyperspace
+  Right      - 
+  Down-Right - Select Planet
+  Down       - 
+  Down-Left  - 
+  Left       - 
+  Left-Up    - Communicate with target
+
+"B" Options (Release B to select):
